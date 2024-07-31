@@ -1,3 +1,8 @@
+# Public PyPI
+--index-url https://pypi.org/simple
+
+# Packages
+
 pandas
 mlflow==2.2.2
 notebook
